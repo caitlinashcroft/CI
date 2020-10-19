@@ -1,3 +1,5 @@
+![Run on multiple OS](https://github.com/caitlinashcroft/CI/workflows/Run%20on%20multiple%20OS/badge.svg)
+
 ![Python package](https://github.com/caitlinashcroft/CI/workflows/Python%20package/badge.svg)
 
 # OxRSE Continuous Integration course
